@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @P-techno
-- 👀 I’m interested in Omori Undertale JJK Sonic and Mario
+- 👀 I’m interested in Omori Undertale final fantasy JJK Sonic and Mario
 - 🌱 I’m currently learning Java Javascript html 
 - 💞️ I’m looking to collaborate on rpgmaker projects and websites
 - 📫 How to reach me (I dont know yet)
-- 😄 Pronouns: He/him
+- 😄 Pronouns: He/him, they/them, fnafhe/fnafhim
 - ⚡ Fun fact: I love doggos
 
 <!---
